@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello! 👋<br><br>I'm Willian Ribeiro, and I have been working as an Infrastructure Analyst for 9 years. 
 <br> 👨‍🎓 I am currently in the process of transitioning my career to become a Data Engineer. <br>My passion for data analysis and solving complex problems has driven me to pursue this change.<br><br><br>
 
