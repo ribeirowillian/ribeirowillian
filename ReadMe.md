@@ -1,5 +1,21 @@
-Hello! 👋<br><br>I'm Willian Ribeiro, and I have been working as an Infrastructure Analyst for 9 years. 
-<br> 👨‍🎓 I am currently in the process of transitioning my career to become a Data Engineer. <br>My passion for data analysis and solving complex problems has driven me to pursue this change.<br><br><br>
+Olá! 👋<br><br> Meu nome é Willian e atuo há mais de dez anos no setor de Tecnologia da Informação, no último ano adquiri experiência na área de Engenharia de Dados. Meu objetivo é auxiliar empresas na implementação da cultura Data-driven por meio de processos ETL/ELT sólidos e bem estuturados.
+
+Conhecimento nas seguintes ferramentas: 
+- Docker
+- Git
+- Airbyte
+- Meltano
+- Snowflake
+- Apache Airflow
+- Bitbucket
+
+Liguagens de programação:
+- Python
+- SQL
+
+Cloud:
+- AWS
+- Google Cloud
 
 
 #### 🌐 Socials:
