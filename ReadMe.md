@@ -7,10 +7,11 @@ Ferramentas e tecnologias:
 - Airbyte
 - dbt
 - Docker
+- Git
 - Meltano
 - Power BI
 - Snowflake
-- Versionamento com Git e Bitbucket
+- Repositórios de código: Github e Bitbucket
 
 Linguagens: 
 - Python
