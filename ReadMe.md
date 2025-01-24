@@ -1,4 +1,5 @@
-Olá! 👋<br><br> Meu nome é Willian e possuo mais de 10 anos de experiência em Tecnologia da Informação, atualmente focado em Engenharia de Dados. Por meio da programação, contribuo para a automação e otimização de processos, criando integrações de fluxos de dados bem estruturados que geram valor e impulsionam a melhoria contínua.
+Olá! 👋<br><br> Meu nome é Willian. 
+Profissional com mais de 10 anos de experiência em Tecnologia da Informação, atualmente focado em Engenharia de Dados. Por meio da programação, contribuo para a automação e otimização de processos, criando integrações de fluxos de dados bem estruturados que geram valor e impulsionam a melhoria contínua.
 
 Principais empresas: Britânia, Indicium, Ibema
  
