@@ -24,7 +24,8 @@ Sistemas Operacionais:
 Métodos Ágeis:
  - Scrum
 
+Portfólio: ribeirowillian.github.io
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribeiro-willian/) 
-Portfólio: ribeirowillian.github.io
+
 
